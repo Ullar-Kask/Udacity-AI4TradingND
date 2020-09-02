@@ -1,2 +1,2 @@
-# Udacity-AI4TradingND
+# Udacity-AITND
 Udacity AI for Trading Nanodegree projects
